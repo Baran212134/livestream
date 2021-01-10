@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "630052189344",
+    "firebase_url": "https://webrtcreactnative.firebaseio.com",
+    "project_id": "webrtcreactnative",
+    "storage_bucket": "webrtcreactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630052189344:android:ba4e8844946e5feb3705c5",
+        "android_client_info": {
+          "package_name": "com.pixselectstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630052189344-a1u98m16bjdm2b5pjsjc63auvg104s8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAogz7AcxeJlPZ4-mVe9w23rYIb8POdlbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630052189344-a1u98m16bjdm2b5pjsjc63auvg104s8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
